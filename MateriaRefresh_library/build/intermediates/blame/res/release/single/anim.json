@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

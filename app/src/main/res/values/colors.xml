@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="pink">#fb7299</color>
+    <color name="min_pink">#FDC7D6</color>
+    <color name="vip">#FB7BA0</color>
+    <color name="white">#fafafa</color>
+    <color name="pink2">#F8668D</color>
+    <color name="pink3">#FB7BA0</color>
+    <color name="bright_white">#fffefe</color>
+    <color name="gray">#f2ebed</color>
+    <color name="font_normal">#555555</color>
+    <color name="black_alpha_45">#71000000</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>

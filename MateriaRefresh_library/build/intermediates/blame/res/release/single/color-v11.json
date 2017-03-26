@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Bilibili\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "F:\\yangguangfu\\wanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\androidstudio\\LiShuWanMobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "F:\\yangguangfu\\shoujiyingyinwanzhengdaima\\MobilePhonePlayer\\MateriaRefresh_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
